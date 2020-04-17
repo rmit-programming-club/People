@@ -1,5 +1,17 @@
 # Executive
 ## Sam Nolan (President)
+Sam Nolan is a third year BH101 Bachelor of Science (Dean's Scholar, Computer Science) (Honours)
+Student. (Which is basically Computer science + an honours year)
+
+Sam Nolan is interested in a lot of different types of technoligies, but is particularly
+fond of:
+
+ - Haskell
+ - Functional Programming 
+ - PostgreSQL
+ - Data Analysis
+ - Build Systems
+
 ### Round table socials
 Coded the round table bot and has run all the socials for the programming club
 
@@ -38,7 +50,7 @@ Created the banner for the web and git workshop
 
 ## Maxwell Reid (Events Officer)
 ### Ludum Dare
-PLannd Ludum Dare with Ewan Breakey
+Planned Ludum Dare with Ewan Breakey
 
 ## Benjamin Grant (Design Officer)
 ### Round table Socials
